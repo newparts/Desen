@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Desen/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Desen/static/js/main.11671696.chunk.js",
+    "main.js.map": "/Desen/static/js/main.11671696.chunk.js.map",
+    "runtime-main.js": "/Desen/static/js/runtime-main.43b5e5bc.js",
+    "runtime-main.js.map": "/Desen/static/js/runtime-main.43b5e5bc.js.map",
+    "static/js/2.3744c42d.chunk.js": "/Desen/static/js/2.3744c42d.chunk.js",
+    "static/js/2.3744c42d.chunk.js.map": "/Desen/static/js/2.3744c42d.chunk.js.map",
+    "static/js/3.8c91d968.chunk.js": "/Desen/static/js/3.8c91d968.chunk.js",
+    "static/js/3.8c91d968.chunk.js.map": "/Desen/static/js/3.8c91d968.chunk.js.map",
+    "index.html": "/Desen/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Desen/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3744c42d.chunk.js.LICENSE.txt": "/Desen/static/js/2.3744c42d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Desen/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43b5e5bc.js",
+    "static/js/2.3744c42d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.11671696.chunk.js"
+  ]
+}
